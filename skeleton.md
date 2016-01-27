@@ -1,0 +1,3 @@
+What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+
+When you resize the screen to less the 550px the screen changes to suit the screen of a mobile device. This can be done using media queries. Media queries detect the size of the users screen and display a specific output that suits each device. On mobile the display may designed to be scrolled through like a social media feer or text and buttons may appear big to aid ease of use and navigation. A desktop user might be presented a lot more information, with a newspaperish layout.
